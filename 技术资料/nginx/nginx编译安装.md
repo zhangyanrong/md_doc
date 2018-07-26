@@ -1,4 +1,4 @@
-#nginx 编译安装
+# nginx 编译安装
 
 下载nginx pcre openssl zlib
 
