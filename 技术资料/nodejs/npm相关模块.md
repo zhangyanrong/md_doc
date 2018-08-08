@@ -1,5 +1,10 @@
-npm-check-updates   升级包
-
-cookie-encrypter  cookie加密
-
-cookie-session.   处理session
+1. npm-check-updates
+    * 升级包(全局安装)
+2. cookie-encrypter
+    * cookie加密
+3. cookie-session
+    * 处理session
+4. multer
+    * 可以处理文件上传的post
+5. consolidate
+    * 模版引擎集合
