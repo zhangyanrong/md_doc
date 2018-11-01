@@ -8,3 +8,61 @@
     * 可以处理文件上传的post
 5. consolidate
     * 模版引擎集合
+6. art-template　　
+    * 一款js模板引擎，性能不错
+7. async 
+    * 流程控制工具，以语法糖解决node callback hell，类似还有q等
+8. body-parser 
+    * express自带http body解析中间件
+9. connect-multiparty
+    * 款中间件，可以在express中通过req.files方式获取req中的文件上传参数
+10. cookie-parser
+    * express自带cookie解析
+11. excel-export
+    * 用于导出数据至excel文件
+12. Linq
+    * c#中用得较多，支持数组数据处理，功能强大
+13. images　
+    * Node图片处理中间件
+14. log4js　　
+    * 相当于java的log4j
+15. mssql
+    * sqlserver数据库连接中间件
+16. node-xlsx　　
+     * 处理excel文件（缺点是excel必须以xlsx结尾）
+17. request　　
+     * node端request组件
+18. formidable　　
+    * 文件上传npm包
+19. memcached
+    * memcache操作包
+20. gobble-ssi
+    * ssi引入支持
+21. ipip　　
+    * ip归属地查询
+22. commander
+    * node控制台应用
+23. fs-extra
+    * 增强型fs组件
+24. markdown-it
+    * markdown文件解析
+25. Open
+    * 用于控制浏览器直接打开某url
+26. Rd
+    * 文件或目录遍历
+27. swig　　
+    * swig模板
+28. Moment　　
+    * js日期处理类库，支持node端与浏览器端
+29. Ccap　　
+    * 图形验证码生成库
+30. crypto　　
+    * node加密
+31. node-uuid
+    * 生成uuid
+32. redis
+    * redis客户端连接库
+33. js-jsonrpc　　
+    * nodejs端jsonrpc调用
+34. Co　
+    * Tj大神写的，处理node回调，早期使用偏函数形式解决回调，后来兼容promise模式
